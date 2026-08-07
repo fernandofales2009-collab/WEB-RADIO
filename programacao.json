@@ -10,14 +10,14 @@
     {
       "nome": "Sábado",
       "horario": "08:00",
-      "audios": ["LINK_DO_PROGRAMA_SABADO.json"]
+      "audios": ["https://raw.githubusercontent.com/fernandofales2009-collab/WEB-RADIO/main/SHOW_DATARDE.json"]
     }
   ],
   "domingo": [
     {
       "nome": "Domingo",
       "horario": "09:00",
-      "audios": ["LINK_DO_PROGRAMA_DOMINGO.json"]
+      "audios": ["https://raw.githubusercontent.com/fernandofales2009-collab/WEB-RADIO/main/SHOW_DATARDE.json"]
     }
   ]
 }
