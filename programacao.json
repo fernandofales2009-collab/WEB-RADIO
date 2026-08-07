@@ -7,8 +7,8 @@
     },
     {
       "nome": "SHOW DA TARDE",
-      "horario": "16:40",
-      "audios": ["https://raw.githubusercontent.com/fernandofales2009-collab/WEB-RADIO/main/SHOW_DATARDE.json"]
+      "horario": "17:41",
+      "audios": ["https://github.com/fernandofales2009-collab/WEB-RADIO/raw/refs/heads/main/SHOW_DATARDE.json"]
     }
   ],
   "sabado": [
