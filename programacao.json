@@ -1,28 +1,11 @@
 {
   "semana": [
     {
-      "nome": "Nome do Programa 1",
-      "horario": "06:00",
-      "audios": ["LINK_DO_ARQUIVO_PROGRAMA_1.json_NO_GITHUB"]
-    },
-    {
       "nome": "SHOW DA TARDE",
-      "horario": "17:41",
-      "audios": ["const LINK_PROGRAMACAO = "https://raw.githubusercontent.com/fernandofales2009-collab/WEB-RADIO/main/programacao.json";"]
+      "horario": "17:49",
+      "audios": ["https://github.com/fernandofales2009-collab/WEB-RADIO/raw/main/SHOW_DATARDE.json"]
     }
   ],
-  "sabado": [
-    {
-      "nome": "Programa Sábado",
-      "horario": "08:00",
-      "audios": ["LINK_DO_PROGRAMA_SABADO.json"]
-    }
-  ],
-  "domingo": [
-    {
-      "nome": "Programa Domingo",
-      "horario": "09:00",
-      "audios": ["LINK_DO_PROGRAMA_DOMINGO.json"]
-    }
-  ]
+  "sabado": [],
+  "domingo": []
 }
