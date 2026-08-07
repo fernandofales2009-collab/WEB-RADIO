@@ -6,6 +6,18 @@
       "audios": ["https://raw.githubusercontent.com/fernandofales2009-collab/WEB-RADIO/main/SHOW_DATARDE.json"]
     }
   ],
-  "sabado": [],
-  "domingo": []
+  "sabado": [
+    {
+      "nome": "Sábado",
+      "horario": "08:00",
+      "audios": ["LINK_DO_PROGRAMA_SABADO.json"]
+    }
+  ],
+  "domingo": [
+    {
+      "nome": "Domingo",
+      "horario": "09:00",
+      "audios": ["LINK_DO_PROGRAMA_DOMINGO.json"]
+    }
+  ]
 }
